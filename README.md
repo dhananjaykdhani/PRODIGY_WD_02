@@ -42,12 +42,12 @@ It is part of my internship tasks under Prodigy InfoTech, specifically Task Code
 ---
 
 ## 📂 Folder Structure
-- PRODIGY_WD_01/
-- │
-- ├── index.html          # Main HTML file
-- ├── style.css           # CSS stylesheet
-- ├── script.js           # JavaScript functionality
-- └── README.md           # Project documentation
+PRODIGY_WD_01/
+│
+├── index.html          # Main HTML file
+├── style.css           # CSS stylesheet
+├── script.js           # JavaScript functionality
+└── README.md           # Project documentation
 
 
 ---
