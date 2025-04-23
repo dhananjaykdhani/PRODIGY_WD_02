@@ -43,7 +43,7 @@ It is part of my internship tasks under Prodigy InfoTech, specifically Task Code
 
 ## 📂 Folder Structure
 ```plaintext
-PRODIGY_WD_01/
+PRODIGY_WD_02/
 │
 ├── index.html          # Main HTML file
 ├── style.css           # CSS stylesheet
