@@ -1,12 +1,12 @@
 # 🚀 Task 02 – Stopwatch Web Application ⏱️  
 **Internship Project | Prodigy InfoTech**  
-**Repo:** PRODIGY_WD_01  
+**Repo:** PRODIGY_WD_02  
 
 ---
 
 ## 📌 Project Overview
 This project is a **responsive Stopwatch Web Application** built using **HTML, CSS, and JavaScript**.  
-It is part of my internship tasks under Prodigy InfoTech, specifically Task Code **PRODIGY_WD_01**.
+It is part of my internship tasks under Prodigy InfoTech, specifically Task Code **PRODIGY_WD_02**.
 
 ---
 
